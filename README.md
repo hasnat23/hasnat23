@@ -1,6 +1,6 @@
 # 👋 Muhammad Hasnat | ML Engineer · LLMs, RAG & Evaluation
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hasnat23&label=Profile%20views&color=4f46e5&style=flat)](https://github.com/hasnat23)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hasnat23.hasnat23&left_text=Profile%20views&left_color=%23555&right_color=%234f46e5)](https://github.com/hasnat23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hasnat-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasnat23/)
 [![Email](https://img.shields.io/badge/Email-chmuhammadhasnat23%40gmail.com-red?style=flat&logo=gmail)](mailto:chmuhammadhasnat23@gmail.com)
 
