@@ -52,7 +52,7 @@ cover letter in parallel. A fact-checker, backed by deterministic evidence check
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=hasnat23&theme=dark&hide_border=true)
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=hasnat23&theme=react-dark&hide_border=true&area=true)
+![Contribution chart](https://ghchart.rshah.org/4f46e5/hasnat23)
 
 ---
 
