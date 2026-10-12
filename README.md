@@ -25,7 +25,7 @@ so my projects usually ship with a real UI and API, not just a notebook.
 
 ### 🔎 [factlens](https://github.com/hasnat23/factlens)
 **Sentence-level hallucination detection** for LLM summaries and RAG answers. Each sentence is checked against the source with an NLI model,
-labelled *supported / unverified / contradicted*, and aggregated into one score. Comes with a benchmark on human-annotated RAGTruth data and a [live in-browser demo on Hugging Face](https://huggingface.co/spaces/chhasnat23/factlens).
+labelled *supported / unverified / contradicted*, and aggregated into one score. Beats holistic NLI scoring on 900 human-annotated RAGTruth summaries (ROC-AUC 0.70 vs 0.63) and has a [live in-browser demo on Hugging Face](https://huggingface.co/spaces/chhasnat23/factlens).
 
 ### 🔁 [reflective-rag](https://github.com/hasnat23/reflective-rag)
 **Corrective RAG (CRAG) and Self-RAG**, re-implemented with LangGraph from the papers, plus an evaluation harness on HotpotQA with a
